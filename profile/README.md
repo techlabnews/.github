@@ -1,2 +1,2 @@
 # WELCOME in TECHLABNEWS Organization ! 😀
-![Welcome](imgs/bkc.jpg)
+![Welcome](https://github.com/techlabnews/.github/raw/main/profile/imgs/bkc.jpg)
